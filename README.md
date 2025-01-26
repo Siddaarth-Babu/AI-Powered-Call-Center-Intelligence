@@ -30,7 +30,7 @@ This project is an AI-powered chatbot designed to assist users in making informe
 
    ```bash
    git clone https://github.com/Siddaarth-Babu/AI-Powered-Call-Center-Intelligence.git
-   cd stock-market-chatbot
+   cd AI-Powered-Call-Center-Intelligence
    ```
 
 2. **Set Up Virtual Environment**:
