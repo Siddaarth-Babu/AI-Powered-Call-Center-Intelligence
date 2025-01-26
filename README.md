@@ -29,7 +29,7 @@ This project is an AI-powered chatbot designed to assist users in making informe
    To get started, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Siddaarth-Babu/stock-market-chatbot.git
+   git clone https://github.com/Siddaarth-Babu/AI-Powered-Call-Center-Intelligence.git
    cd stock-market-chatbot
    ```
 
